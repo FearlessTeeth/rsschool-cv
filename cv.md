@@ -40,7 +40,10 @@ production and data supervision, decision-making changes and repair of productio
 
 Technical Experience
 --------------------
-SKILL
+none
+
+Skill
+--------------------
 
 *Good knowledge of HTML and CSS
 
